@@ -1,2 +1,2 @@
 # github-example
-This repo is a demo repo
+This repository is a demonstration of how to create a Github repository and properly set it up so that it can easily sync with it's local version
